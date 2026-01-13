@@ -1,5 +1,6 @@
 // app/page.tsx (Server Component)
 import React from 'react';
+export const dynamic = 'force-dynamic';
 import Link from 'next/link';
 import { FileCode, Plus, Bookmark, Code2 } from 'lucide-react';
 
